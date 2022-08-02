@@ -29,18 +29,6 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a>
-    <a href="https://www.java.com" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a>
-    <a href="https://github.com/" target="_blank"> <img
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
-    </a>
-    <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="python" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img
-        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-    </a>
 
  <br>
 
